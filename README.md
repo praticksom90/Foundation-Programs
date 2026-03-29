@@ -22,4 +22,4 @@ To strengthen programming fundamentals and build practical problem-solving skill
 Ongoing
 
 ## Author
-Pratick Som – Learning and building consistently.
+[Pratick Som] – Learning and building consistently.
