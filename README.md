@@ -10,7 +10,7 @@ This repository contains my foundational programming work including basic concep
 - Basic AI Chatbot
 - Stack Implementation
 - File Handling Programs
-- Text Summarization (basic)
+- Text Summarization (basic) and many more
 
 ## Tech Stack
 Python,Java,C++,C
